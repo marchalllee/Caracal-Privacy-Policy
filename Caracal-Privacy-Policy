@@ -1,0 +1,174 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Caracal - Privacy Policy</title>
+
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.7;
+            max-width: 850px;
+            margin: 0 auto;
+            padding: 30px 20px;
+            color: #222;
+            background: #f7f7f7;
+        }
+
+        .container {
+            background: #ffffff;
+            padding: 30px;
+            border-radius: 12px;
+        }
+
+        h1 {
+            margin-top: 0;
+        }
+
+        h2 {
+            margin-top: 30px;
+        }
+
+        a {
+            color: #0066cc;
+        }
+
+        .date {
+            color: #666;
+        }
+    </style>
+</head>
+
+<body>
+
+<div class="container">
+
+    <h1>Privacy Policy for Caracal</h1>
+
+    <p class="date"><strong>Effective date:</strong> September 4, 2026</p>
+
+    <p>
+        Sahara Games ("we", "us", or "our") developed and published
+        <strong>Caracal</strong>.
+    </p>
+
+    <p>
+        This Privacy Policy explains how information may be collected and
+        used when you use the Caracal mobile game.
+    </p>
+
+    <h2>Information We Collect</h2>
+
+    <p>
+        Caracal uses third-party advertising services, including
+        Google Mobile Ads (AdMob). These services may automatically
+        collect certain information from your device, including:
+    </p>
+
+    <ul>
+        <li>Approximate location</li>
+        <li>Device or other identifiers, such as the advertising ID</li>
+        <li>App interactions</li>
+        <li>Diagnostic and performance information</li>
+    </ul>
+
+    <p>
+        This information may be collected or shared with third-party
+        service providers for purposes including:
+    </p>
+
+    <ul>
+        <li>Advertising and marketing</li>
+        <li>Analytics</li>
+        <li>Fraud prevention, security, and compliance</li>
+    </ul>
+
+    <p>
+        Caracal does not require users to create an account and does not
+        provide user account registration or login.
+    </p>
+
+    <h2>Advertising</h2>
+
+    <p>
+        Caracal uses Google Mobile Ads (AdMob) to display advertisements.
+    </p>
+
+    <p>
+        Google and its advertising partners may use information collected
+        from your device to provide, measure, and improve advertising,
+        as well as for fraud prevention and security purposes.
+    </p>
+
+    <p>
+        For more information about how Google handles data, please review
+        Google's Privacy Policy:
+    </p>
+
+    <p>
+        <a href="https://policies.google.com/privacy" target="_blank">
+            Google Privacy Policy
+        </a>
+    </p>
+
+    <h2>Data Security</h2>
+
+    <p>
+        Information transmitted by the advertising services used by
+        Caracal is encrypted in transit.
+    </p>
+
+    <h2>Data Deletion</h2>
+
+    <p>
+        Caracal does not provide user accounts or store personal user
+        profiles on our own servers. Therefore, there is no user account
+        or personal profile that can be deleted through Caracal.
+    </p>
+
+    <p>
+        Third-party services used by the game may have their own data
+        retention and deletion policies.
+    </p>
+
+    <h2>Children's Privacy</h2>
+
+    <p>
+        Caracal is not specifically directed at children under the age
+        of 13. We do not knowingly collect personal information directly
+        from children.
+    </p>
+
+    <p>
+        If you believe that a child has provided personal information
+        through the game, please contact us so that we can review
+        the matter.
+    </p>
+
+    <h2>Changes to This Privacy Policy</h2>
+
+    <p>
+        We may update this Privacy Policy from time to time. Any changes
+        will be published on this page with an updated effective date.
+    </p>
+
+    <h2>Contact Us</h2>
+
+    <p>
+        If you have questions about this Privacy Policy or the privacy
+        practices of Caracal, please contact us at:
+    </p>
+
+    <p>
+        <strong>
+            <a href="mailto:Saharalap.studio@gmail.com">
+                Saharalap.studio@gmail.com
+            </a>
+        </strong>
+    </p>
+
+</div>
+
+</body>
+</html>
